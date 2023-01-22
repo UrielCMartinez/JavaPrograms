@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class App {
+public class BusquedaBinaria {
 
     public static void main(String[] args) {
         System.out.println("Busqueda Binaria");
